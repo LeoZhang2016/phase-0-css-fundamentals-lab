@@ -1,0 +1,23 @@
+header, section,figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+#details{
+    background: red;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+}
+
+h1 {
+    color: rgb(47, 0, 255);
+}
+
+p {
+    width:  60%;
+}
